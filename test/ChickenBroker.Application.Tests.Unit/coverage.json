@@ -1,0 +1,2940 @@
+{
+  "ChickenBroker.Application.dll": {
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\ApplicationServiceCollectionExtensions.cs": {
+      "ChickenBroker.Application.ApplicationServiceCollectionExtensions": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection ChickenBroker.Application.ApplicationServiceCollectionExtensions::AddApplication(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection ChickenBroker.Application.ApplicationServiceCollectionExtensions::AddDatabase(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Validators\\GetAllPropertyAgencyOptionsValidator.cs": {
+      "ChickenBroker.Application.Validators.GetAllPropertyAgencyOptionsValidator": {
+        "System.Void ChickenBroker.Application.Validators.GetAllPropertyAgencyOptionsValidator::.ctor()": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": [
+            {
+              "Line": 12,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 7,
+              "EndOffset": 23,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 12,
+              "Offset": 26,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Validators\\PropertyAgencyValidator.cs": {
+      "ChickenBroker.Application.Validators.PropertyAgencyValidator": {
+        "System.Void ChickenBroker.Application.Validators.PropertyAgencyValidator::.ctor(ChickenBroker.Application.Repositories.Interfaces.IAddressRepository,SDKBrasilAPI.IBrasilAPI)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Validators.PropertyAgencyValidator/<IsValidZipCode>d__3": {
+        "System.Void ChickenBroker.Application.Validators.PropertyAgencyValidator/<IsValidZipCode>d__3::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "53": 0
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 45,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 201,
+              "EndOffset": 203,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 201,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 374,
+              "EndOffset": 376,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 374,
+              "EndOffset": 381,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Validators\\PropertySoldValidator.cs": {
+      "ChickenBroker.Application.Validators.PropertySoldValidator": {
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator::<.ctor>b__4_0()": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator::<.ctor>b__4_1()": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "94": 0
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator::.ctor(ChickenBroker.Application.Repositories.Interfaces.IUserRepository,ChickenBroker.Application.Repositories.Interfaces.IPropertySoldRepository,ChickenBroker.Application.Repositories.Interfaces.IAddressRepository,SDKBrasilAPI.IBrasilAPI)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "29": 0,
+            "34": 0,
+            "38": 0,
+            "42": 0,
+            "46": 0,
+            "53": 0,
+            "58": 0,
+            "63": 0,
+            "67": 0,
+            "71": 0,
+            "93": 0,
+            "96": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Validators.PropertySoldValidator/<IsValidZipCode>d__8": {
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator/<IsValidZipCode>d__8::MoveNext()": {
+          "Lines": {
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "140": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "147": 0
+          },
+          "Branches": [
+            {
+              "Line": 122,
+              "Offset": 35,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 122,
+              "Offset": 35,
+              "EndOffset": 56,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 122,
+              "Offset": 59,
+              "EndOffset": 61,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 122,
+              "Offset": 59,
+              "EndOffset": 69,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 128,
+              "Offset": 215,
+              "EndOffset": 217,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 128,
+              "Offset": 215,
+              "EndOffset": 225,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 388,
+              "EndOffset": 390,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 388,
+              "EndOffset": 395,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Validators.PropertySoldValidator/<ValidateUserCreatorIsCurrentUser>d__7": {
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator/<ValidateUserCreatorIsCurrentUser>d__7::MoveNext()": {
+          "Lines": {
+            "116": 0,
+            "117": 0,
+            "118": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Validators.PropertySoldValidator/<ValidateUserExists>d__5": {
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator/<ValidateUserExists>d__5::MoveNext()": {
+          "Lines": {
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Validators.PropertySoldValidator/<ValidateUserSoldExists>d__6": {
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator/<ValidateUserSoldExists>d__6::MoveNext()": {
+          "Lines": {
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0
+          },
+          "Branches": [
+            {
+              "Line": 106,
+              "Offset": 31,
+              "EndOffset": 33,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 106,
+              "Offset": 31,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Validators.PropertySoldValidator/<<-ctor>b__4_40>d": {
+        "System.Void ChickenBroker.Application.Validators.PropertySoldValidator/<<-ctor>b__4_40>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 79,
+              "Offset": 47,
+              "EndOffset": 52,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 66,
+              "EndOffset": 68,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 81,
+              "Offset": 66,
+              "EndOffset": 75,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 238,
+              "EndOffset": 240,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 238,
+              "EndOffset": 259,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 79,
+              "Offset": 47,
+              "EndOffset": 274,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Validators\\UserValidator.cs": {
+      "ChickenBroker.Application.Validators.UserValidator": {
+        "System.Void ChickenBroker.Application.Validators.UserValidator::.ctor(ChickenBroker.Application.Repositories.Interfaces.IUserRepository)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Validators.UserValidator/<ValidateUser>d__2": {
+        "System.Void ChickenBroker.Application.Validators.UserValidator/<ValidateUser>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Services\\AddressService.cs": {
+      "ChickenBroker.Application.Services.AddressService": {
+        "System.Threading.Tasks.Task`1<ChickenBroker.Application.Models.Address> ChickenBroker.Application.Services.AddressService::GetByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "40": 2,
+            "41": 2,
+            "42": 2
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<ChickenBroker.Application.Models.Address>> ChickenBroker.Application.Services.AddressService::GetAllAsync(System.Threading.CancellationToken)": {
+          "Lines": {
+            "73": 2,
+            "74": 2,
+            "75": 2
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.AddressService::DeleteByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "84": 0,
+            "85": 0,
+            "86": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.AddressService::ExistsByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "89": 0,
+            "90": 0,
+            "91": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.AddressService::ExistsByZipCodeAsync(System.String,System.Threading.CancellationToken)": {
+          "Lines": {
+            "94": 0,
+            "95": 0,
+            "96": 0
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Services.AddressService::.ctor(ChickenBroker.Application.Repositories.Interfaces.IAddressRepository,SDKBrasilAPI.IBrasilAPI)": {
+          "Lines": {
+            "15": 12,
+            "16": 12,
+            "17": 12,
+            "18": 12,
+            "19": 12
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.AddressService/<CreateAsync>d__3": {
+        "System.Void ChickenBroker.Application.Services.AddressService/<CreateAsync>d__3::MoveNext()": {
+          "Lines": {
+            "22": 4,
+            "24": 4,
+            "25": 4,
+            "26": 1,
+            "27": 1,
+            "29": 3,
+            "30": 3,
+            "31": 1,
+            "32": 1,
+            "34": 2,
+            "35": 2,
+            "36": 2,
+            "37": 2
+          },
+          "Branches": [
+            {
+              "Line": 25,
+              "Offset": 189,
+              "EndOffset": 191,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 25,
+              "Offset": 189,
+              "EndOffset": 203,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 30,
+              "Offset": 360,
+              "EndOffset": 362,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 30,
+              "Offset": 360,
+              "EndOffset": 374,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Services.AddressService/<GetByZipCodeAndCreateIfNotExistsAsync>d__6": {
+        "System.Void ChickenBroker.Application.Services.AddressService/<GetByZipCodeAndCreateIfNotExistsAsync>d__6::MoveNext()": {
+          "Lines": {
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "70": 0
+          },
+          "Branches": [
+            {
+              "Line": 52,
+              "Offset": 193,
+              "EndOffset": 198,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 193,
+              "EndOffset": 337,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Services.AddressService/<GetByZipCodeAsync>d__5": {
+        "System.Void ChickenBroker.Application.Services.AddressService/<GetByZipCodeAsync>d__5::MoveNext()": {
+          "Lines": {
+            "45": 2,
+            "46": 2,
+            "47": 2
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.AddressService/<UpdateAsync>d__8": {
+        "System.Void ChickenBroker.Application.Services.AddressService/<UpdateAsync>d__8::MoveNext()": {
+          "Lines": {
+            "78": 2,
+            "79": 2,
+            "80": 2,
+            "81": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Services\\PropertyAgencyService.cs": {
+      "ChickenBroker.Application.Services.PropertyAgencyService": {
+        "System.Threading.Tasks.Task`1<ChickenBroker.Application.Models.PropertyAgency> ChickenBroker.Application.Services.PropertyAgencyService::GetByIdAsync(System.Guid,System.Nullable`1<System.Guid>,System.Threading.CancellationToken)": {
+          "Lines": {
+            "39": 0,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Int32> ChickenBroker.Application.Services.PropertyAgencyService::GetCountAllAsync(System.String,System.String,System.String,System.String,System.Threading.CancellationToken)": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.PropertyAgencyService::DeleteByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "74": 0,
+            "75": 0,
+            "76": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.PropertyAgencyService::ExistsByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "79": 0,
+            "80": 0,
+            "81": 0
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Services.PropertyAgencyService::.ctor(ChickenBroker.Application.Repositories.Interfaces.IPropertyAgencyRepository,FluentValidation.IValidator`1<ChickenBroker.Application.Models.PropertyAgency>,ChickenBroker.Application.Services.Interfaces.IAddressService,FluentValidation.IValidator`1<ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions>)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.PropertyAgencyService/<CreateAsync>d__5": {
+        "System.Void ChickenBroker.Application.Services.PropertyAgencyService/<CreateAsync>d__5::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 321,
+              "EndOffset": 323,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 321,
+              "EndOffset": 331,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Services.PropertyAgencyService/<GetAllAsync>d__7": {
+        "System.Void ChickenBroker.Application.Services.PropertyAgencyService/<GetAllAsync>d__7::MoveNext()": {
+          "Lines": {
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.PropertyAgencyService/<UpdateAsync>d__9": {
+        "System.Void ChickenBroker.Application.Services.PropertyAgencyService/<UpdateAsync>d__9::MoveNext()": {
+          "Lines": {
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 323,
+              "EndOffset": 325,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 323,
+              "EndOffset": 333,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 496,
+              "EndOffset": 498,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 496,
+              "EndOffset": 506,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Services\\PropertySoldService.cs": {
+      "ChickenBroker.Application.Services.PropertySoldService": {
+        "System.Threading.Tasks.Task`1<ChickenBroker.Application.Models.PropertySold> ChickenBroker.Application.Services.PropertySoldService::GetByIdAsync(System.Guid,System.Nullable`1<System.Guid>,System.Threading.CancellationToken)": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<ChickenBroker.Application.Models.PropertySold>> ChickenBroker.Application.Services.PropertySoldService::GetAllAsync(ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions,System.Threading.CancellationToken)": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.PropertySoldService::DeleteByIdAsync(System.Guid,System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "72": 0,
+            "73": 0,
+            "74": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.PropertySoldService::ExistsByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "77": 0,
+            "78": 0,
+            "79": 0
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Services.PropertySoldService::.ctor(ChickenBroker.Application.Repositories.Interfaces.IPropertySoldRepository,FluentValidation.IValidator`1<ChickenBroker.Application.Models.PropertySold>,ChickenBroker.Application.Services.Interfaces.IAddressService)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.PropertySoldService/<>c": {
+        "System.Void ChickenBroker.Application.Services.PropertySoldService/<>c::<CreateAsync>b__4_0(FluentValidation.Internal.ValidationStrategy`1<ChickenBroker.Application.Models.PropertySold>)": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Services.PropertySoldService/<>c::<UpdateAsync>b__7_0(FluentValidation.Internal.ValidationStrategy`1<ChickenBroker.Application.Models.PropertySold>)": {
+          "Lines": {
+            "58": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.PropertySoldService/<CreateAsync>d__4": {
+        "System.Void ChickenBroker.Application.Services.PropertySoldService/<CreateAsync>d__4::MoveNext()": {
+          "Lines": {
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 284,
+              "EndOffset": 286,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 284,
+              "EndOffset": 332,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 495,
+              "EndOffset": 497,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 495,
+              "EndOffset": 520,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Services.PropertySoldService/<UpdateAsync>d__7": {
+        "System.Void ChickenBroker.Application.Services.PropertySoldService/<UpdateAsync>d__7::MoveNext()": {
+          "Lines": {
+            "50": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 54,
+              "Offset": 202,
+              "EndOffset": 204,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 202,
+              "EndOffset": 212,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 456,
+              "EndOffset": 458,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 456,
+              "EndOffset": 476,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 639,
+              "EndOffset": 641,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 639,
+              "EndOffset": 664,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Services\\PropertyTypeService.cs": {
+      "ChickenBroker.Application.Services.PropertyTypeService": {
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<ChickenBroker.Application.Models.PropertyType>> ChickenBroker.Application.Services.PropertyTypeService::GetAllAsync(System.Threading.CancellationToken)": {
+          "Lines": {
+            "17": 2,
+            "18": 2,
+            "19": 2
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Services.PropertyTypeService::.ctor(ChickenBroker.Application.Repositories.Interfaces.IPropertyTypeRepository)": {
+          "Lines": {
+            "11": 2,
+            "12": 2,
+            "13": 2,
+            "14": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Services\\UserService.cs": {
+      "ChickenBroker.Application.Services.UserService": {
+        "System.Threading.Tasks.Task`1<ChickenBroker.Application.Models.User> ChickenBroker.Application.Services.UserService::GetByIdAsync(System.Guid,System.Nullable`1<System.Guid>,System.Threading.CancellationToken)": {
+          "Lines": {
+            "27": 2,
+            "28": 2,
+            "29": 2
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<ChickenBroker.Application.Models.User>> ChickenBroker.Application.Services.UserService::GetAllAsync(System.Threading.CancellationToken)": {
+          "Lines": {
+            "32": 2,
+            "33": 2,
+            "34": 2
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.UserService::DeleteByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "48": 2,
+            "49": 2,
+            "50": 2
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.UserService::ExistsByIdAsync(System.Guid,System.Threading.CancellationToken)": {
+          "Lines": {
+            "53": 2,
+            "54": 2,
+            "55": 2
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> ChickenBroker.Application.Services.UserService::ExistsByEmailAsync(System.String,System.Threading.CancellationToken)": {
+          "Lines": {
+            "58": 2,
+            "59": 2,
+            "60": 2
+          },
+          "Branches": []
+        },
+        "System.Void ChickenBroker.Application.Services.UserService::.ctor(ChickenBroker.Application.Repositories.Interfaces.IUserRepository,FluentValidation.IValidator`1<ChickenBroker.Application.Models.User>)": {
+          "Lines": {
+            "14": 15,
+            "15": 15,
+            "16": 15,
+            "17": 15,
+            "18": 15
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.UserService/<CreateAsync>d__3": {
+        "System.Void ChickenBroker.Application.Services.UserService/<CreateAsync>d__3::MoveNext()": {
+          "Lines": {
+            "21": 2,
+            "22": 2,
+            "23": 2,
+            "24": 2
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Services.UserService/<UpdateAsync>d__6": {
+        "System.Void ChickenBroker.Application.Services.UserService/<UpdateAsync>d__6::MoveNext()": {
+          "Lines": {
+            "37": 3,
+            "38": 3,
+            "39": 3,
+            "40": 1,
+            "41": 1,
+            "43": 2,
+            "44": 2,
+            "45": 3
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 179,
+              "EndOffset": 189,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 44,
+              "Offset": 330,
+              "EndOffset": 332,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 330,
+              "EndOffset": 335,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Repositories\\AddressRepository.cs": {
+      "ChickenBroker.Application.Repositories.AddressRepository": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository::.ctor(ChickenBroker.Application.Database.IDbConnectionFactory)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<CreateAsync>d__2": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<CreateAsync>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 368,
+              "EndOffset": 370,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 368,
+              "EndOffset": 373,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<DeleteByIdAsync>d__7": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<DeleteByIdAsync>d__7::MoveNext()": {
+          "Lines": {
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<ExistsByIdAsync>d__8": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<ExistsByIdAsync>d__8::MoveNext()": {
+          "Lines": {
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<ExistsByZipCodeAsync>d__9": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<ExistsByZipCodeAsync>d__9::MoveNext()": {
+          "Lines": {
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<GetAllAsync>d__5": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<GetAllAsync>d__5::MoveNext()": {
+          "Lines": {
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "77": 0,
+            "78": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<GetByIdAsync>d__3": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<GetByIdAsync>d__3::MoveNext()": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<GetByZipCodeAsync>d__4": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<GetByZipCodeAsync>d__4::MoveNext()": {
+          "Lines": {
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.AddressRepository/<UpdateAsync>d__6": {
+        "System.Void ChickenBroker.Application.Repositories.AddressRepository/<UpdateAsync>d__6::MoveNext()": {
+          "Lines": {
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0
+          },
+          "Branches": [
+            {
+              "Line": 96,
+              "Offset": 368,
+              "EndOffset": 370,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 368,
+              "EndOffset": 373,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Repositories\\PropertyAgencyRepository.cs": {
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository::.ctor(ChickenBroker.Application.Database.IDbConnectionFactory)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<>c": {
+        "ChickenBroker.Application.Models.PropertyAgency ChickenBroker.Application.Repositories.PropertyAgencyRepository/<>c::<GetAllAsync>b__4_0(ChickenBroker.Application.Models.PropertyAgency,ChickenBroker.Application.Models.Address)": {
+          "Lines": {
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<CreateAsync>d__2": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository/<CreateAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<DeleteByIdAsync>d__7": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository/<DeleteByIdAsync>d__7::MoveNext()": {
+          "Lines": {
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<ExistsByIdAsync>d__8": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository/<ExistsByIdAsync>d__8::MoveNext()": {
+          "Lines": {
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<GetAllAsync>d__4": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository/<GetAllAsync>d__4::MoveNext()": {
+          "Lines": {
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0
+          },
+          "Branches": [
+            {
+              "Line": 80,
+              "Offset": 200,
+              "EndOffset": 205,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 238,
+              "EndOffset": 240,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 238,
+              "EndOffset": 263,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 268,
+              "EndOffset": 270,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 268,
+              "EndOffset": 283,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 403,
+              "EndOffset": 405,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 403,
+              "EndOffset": 412,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 200,
+              "EndOffset": 443,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<GetByIdAsync>d__3": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository/<GetByIdAsync>d__3::MoveNext()": {
+          "Lines": {
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 16,
+              "EndOffset": 27,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 16,
+              "EndOffset": 158,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 356,
+              "EndOffset": 358,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 356,
+              "EndOffset": 366,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<GetCountAllAsync>d__5": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository/<GetCountAllAsync>d__5::MoveNext()": {
+          "Lines": {
+            "131": 0,
+            "132": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyAgencyRepository/<UpdateAsync>d__6": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyAgencyRepository/<UpdateAsync>d__6::MoveNext()": {
+          "Lines": {
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "167": 0,
+            "168": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Repositories\\PropertySoldRepository.cs": {
+      "ChickenBroker.Application.Repositories.PropertySoldRepository": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository::.ctor(ChickenBroker.Application.Database.IDbConnectionFactory)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<>c": {
+        "ChickenBroker.Application.Models.PropertySold ChickenBroker.Application.Repositories.PropertySoldRepository/<>c::<GetAllAsync>b__4_0(ChickenBroker.Application.Models.PropertySold,ChickenBroker.Application.Models.Address)": {
+          "Lines": {
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<CreateAsync>d__2": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository/<CreateAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<DeleteByIdAsync>d__6": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository/<DeleteByIdAsync>d__6::MoveNext()": {
+          "Lines": {
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<ExistsByIdAsync>d__7": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository/<ExistsByIdAsync>d__7::MoveNext()": {
+          "Lines": {
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<GetAllAsync>d__4": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository/<GetAllAsync>d__4::MoveNext()": {
+          "Lines": {
+            "86": 0,
+            "87": 0,
+            "89": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "127": 0,
+            "128": 0
+          },
+          "Branches": [
+            {
+              "Line": 91,
+              "Offset": 200,
+              "EndOffset": 205,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 238,
+              "EndOffset": 240,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 238,
+              "EndOffset": 263,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 268,
+              "EndOffset": 270,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 268,
+              "EndOffset": 283,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 403,
+              "EndOffset": 405,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 403,
+              "EndOffset": 412,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 91,
+              "Offset": 200,
+              "EndOffset": 443,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<GetByIdAsync>d__3": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository/<GetByIdAsync>d__3::MoveNext()": {
+          "Lines": {
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<PropertySoldMatchCreatorAndCurrentIdAsync>d__8": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository/<PropertySoldMatchCreatorAndCurrentIdAsync>d__8::MoveNext()": {
+          "Lines": {
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertySoldRepository/<UpdateAsync>d__5": {
+        "System.Void ChickenBroker.Application.Repositories.PropertySoldRepository/<UpdateAsync>d__5::MoveNext()": {
+          "Lines": {
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "160": 0,
+            "161": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Repositories\\PropertyTypeRepository.cs": {
+      "ChickenBroker.Application.Repositories.PropertyTypeRepository": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyTypeRepository::.ctor(ChickenBroker.Application.Database.IDbConnectionFactory)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.PropertyTypeRepository/<GetAllAsync>d__2": {
+        "System.Void ChickenBroker.Application.Repositories.PropertyTypeRepository/<GetAllAsync>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Repositories\\UserRepository.cs": {
+      "ChickenBroker.Application.Repositories.UserRepository": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository::.ctor(ChickenBroker.Application.Database.IDbConnectionFactory)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.UserRepository/<CreateAsync>d__2": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository/<CreateAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.UserRepository/<DeleteByIdAsync>d__6": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository/<DeleteByIdAsync>d__6::MoveNext()": {
+          "Lines": {
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.UserRepository/<ExistsByEmailAsync>d__8": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository/<ExistsByEmailAsync>d__8::MoveNext()": {
+          "Lines": {
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.UserRepository/<ExistsByIdAsync>d__7": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository/<ExistsByIdAsync>d__7::MoveNext()": {
+          "Lines": {
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.UserRepository/<GetAllAsync>d__4": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository/<GetAllAsync>d__4::MoveNext()": {
+          "Lines": {
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.UserRepository/<GetByIdAsync>d__3": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository/<GetByIdAsync>d__3::MoveNext()": {
+          "Lines": {
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "51": 0,
+            "52": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Repositories.UserRepository/<UpdateAsync>d__5": {
+        "System.Void ChickenBroker.Application.Repositories.UserRepository/<UpdateAsync>d__5::MoveNext()": {
+          "Lines": {
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Models\\Address.cs": {
+      "ChickenBroker.Application.Models.Address": {
+        "System.Guid ChickenBroker.Application.Models.Address::get_Id()": {
+          "Lines": {
+            "5": 21
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Address::get_ZipCode()": {
+          "Lines": {
+            "6": 31
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Address::get_Street()": {
+          "Lines": {
+            "7": 18
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Address::get_City()": {
+          "Lines": {
+            "8": 18
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Address::get_State()": {
+          "Lines": {
+            "9": 18
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Address::get_StateAcronym()": {
+          "Lines": {
+            "10": 18
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Address::get_Neighbourhood()": {
+          "Lines": {
+            "11": 18
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Models\\PropertyAgency.cs": {
+      "ChickenBroker.Application.Models.PropertyAgency": {
+        "System.Guid ChickenBroker.Application.Models.PropertyAgency::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertyAgency::get_Name()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertyAgency::get_IdentificationDocumentNumber()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Guid ChickenBroker.Application.Models.PropertyAgency::get_IdAddress()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertyAgency::get_AddressNumber()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertyAgency::get_AddressComplement()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertyAgency::get_ZipCode()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertyAgency::get_ContactNumber()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "ChickenBroker.Application.Models.Address ChickenBroker.Application.Models.PropertyAgency::get_Address()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Models\\PropertySold.cs": {
+      "ChickenBroker.Application.Models.PropertySold": {
+        "System.Guid ChickenBroker.Application.Models.PropertySold::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Guid> ChickenBroker.Application.Models.PropertySold::get_IdUserSold()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Guid ChickenBroker.Application.Models.PropertySold::get_IdUserCreator()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean ChickenBroker.Application.Models.PropertySold::get_UserCreatorDidAgencyOfProperty()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean ChickenBroker.Application.Models.PropertySold::get_UserCreatorDidSaleOfProperty()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Guid ChickenBroker.Application.Models.PropertySold::get_IdPropertyType()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Guid ChickenBroker.Application.Models.PropertySold::get_IdAddress()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertySold::get_AddressNumber()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertySold::get_AddressComplement()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertySold::get_ZipCode()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ChickenBroker.Application.Models.PropertySold::get_NumberOfBedrooms()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ChickenBroker.Application.Models.PropertySold::get_NumberOfSuites()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ChickenBroker.Application.Models.PropertySold::get_NumberOfBathrooms()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ChickenBroker.Application.Models.PropertySold::get_NumberOfParkingSpots()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Single ChickenBroker.Application.Models.PropertySold::get_PropertyArea()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ChickenBroker.Application.Models.PropertySold::get_YearOfConstruction()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean ChickenBroker.Application.Models.PropertySold::get_HasLobby()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime ChickenBroker.Application.Models.PropertySold::get_DateOfSale()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertySold::get_TimeElapsedToSell()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Single ChickenBroker.Application.Models.PropertySold::get_AnnouncedValue()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Single ChickenBroker.Application.Models.PropertySold::get_SaleValue()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Single ChickenBroker.Application.Models.PropertySold::get_CommissionValue()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "ChickenBroker.Application.Models.Address ChickenBroker.Application.Models.PropertySold::get_Address()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Models\\PropertyType.cs": {
+      "ChickenBroker.Application.Models.PropertyType": {
+        "System.Guid ChickenBroker.Application.Models.PropertyType::get_Id()": {
+          "Lines": {
+            "5": 1
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.PropertyType::get_Name()": {
+          "Lines": {
+            "6": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Models\\User.cs": {
+      "ChickenBroker.Application.Models.User": {
+        "System.Guid ChickenBroker.Application.Models.User::get_Id()": {
+          "Lines": {
+            "5": 15
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.User::get_Name()": {
+          "Lines": {
+            "6": 7
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.User::get_Email()": {
+          "Lines": {
+            "7": 7
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Guid> ChickenBroker.Application.Models.User::get_CurrentPropertyAgencyId()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Models\\Options\\GetAllPropertyAgencyOptions.cs": {
+      "ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions": {
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_Name()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_IdentificationDocumentNumber()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_ZipCode()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_City()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_SortField()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<ChickenBroker.Application.Models.Options.FieldSortOrder> ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_SortOrder()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_PageSize()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 ChickenBroker.Application.Models.Options.GetAllPropertyAgencyOptions::get_Page()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Models\\Options\\GetAllPropertySoldOptions.cs": {
+      "ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions": {
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_ZipCode()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_City()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Single> ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_AnnouncedValue()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Single> ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_AnnouncedValueGreaterOrEqual()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Single> ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_AnnouncedValueLesserOrEqual()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Guid> ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_UserId()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_SortField()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<ChickenBroker.Application.Models.Options.FieldSortOrder> ChickenBroker.Application.Models.Options.GetAllPropertySoldOptions::get_SortOrder()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Mapping\\BrasilApiContractMapping.cs": {
+      "ChickenBroker.Application.Mapping.BrasilApiContractMapping": {
+        "ChickenBroker.Application.Models.Address ChickenBroker.Application.Mapping.BrasilApiContractMapping::MapToAddress(SDKBrasilAPI.Responses.CEPResponse,System.Guid,SDKBrasilAPI.Responses.IBGEResponse)": {
+          "Lines": {
+            "9": 2,
+            "11": 2,
+            "12": 2,
+            "13": 2,
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2,
+            "21": 2
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 53,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 11,
+              "Offset": 65,
+              "EndOffset": 67,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 65,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 11,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 92,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 11,
+              "Offset": 104,
+              "EndOffset": 106,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 104,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Database\\DbConnectionFactory.cs": {
+      "ChickenBroker.Application.Database.SqlClientConnectionFactory": {
+        "System.Void ChickenBroker.Application.Database.SqlClientConnectionFactory::.ctor(System.String)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Database.SqlClientConnectionFactory/<CreateConnectionAsync>d__2": {
+        "System.Void ChickenBroker.Application.Database.SqlClientConnectionFactory/<CreateConnectionAsync>d__2::MoveNext()": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Database\\DbDataInitializer.cs": {
+      "ChickenBroker.Application.Database.DbDataInitializer": {
+        "System.Void ChickenBroker.Application.Database.DbDataInitializer::.ctor(ChickenBroker.Application.Database.IDbConnectionFactory)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Database.DbDataInitializer/<InitializeAsync>d__2": {
+        "System.Void ChickenBroker.Application.Database.DbDataInitializer/<InitializeAsync>d__2::MoveNext()": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\kamil\\RiderProjects\\ChickenBrokerApp\\src\\ChickenBroker.Application\\Database\\DbInitializer.cs": {
+      "ChickenBroker.Application.Database.DbInitializer": {
+        "System.Void ChickenBroker.Application.Database.DbInitializer::.ctor(ChickenBroker.Application.Database.IDbConnectionFactory)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      },
+      "ChickenBroker.Application.Database.DbInitializer/<InitializeAsync>d__2": {
+        "System.Void ChickenBroker.Application.Database.DbInitializer/<InitializeAsync>d__2::MoveNext()": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 17,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 15,
+              "Offset": 17,
+              "EndOffset": 159,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{75A47F67-0A30-47A7-8E9E-D7B5A1D60C7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{254323AF-D95B-4400-AC5E-B569C59D9F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenBroker.Api", "src\ChickenBroker.Api\ChickenBroker.Api.csproj", "{63EC5CB0-33F6-4F20-AF9C-DA3AC2A9CDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenBroker.Application", "src\ChickenBroker.Application\ChickenBroker.Application.csproj", "{24EB42B7-FB7B-4C38-B441-B85ADB4DAC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenBroker.Contracts", "src\ChickenBroker.Contracts\ChickenBroker.Contracts.csproj", "{4D099627-9006-41A1-AEF7-8BB365C068F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityMockup.Api", "src\IdentityMockup.Api\IdentityMockup.Api.csproj", "{05D11FD8-776B-474A-84F3-349A09EADDB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenBroker.Application.Tests.Unit", "test\ChickenBroker.Application.Tests.Unit\ChickenBroker.Application.Tests.Unit.csproj", "{4B548BD7-14F6-4269-8A7D-2551C6C572BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63EC5CB0-33F6-4F20-AF9C-DA3AC2A9CDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EC5CB0-33F6-4F20-AF9C-DA3AC2A9CDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EC5CB0-33F6-4F20-AF9C-DA3AC2A9CDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EC5CB0-33F6-4F20-AF9C-DA3AC2A9CDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EB42B7-FB7B-4C38-B441-B85ADB4DAC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EB42B7-FB7B-4C38-B441-B85ADB4DAC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EB42B7-FB7B-4C38-B441-B85ADB4DAC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EB42B7-FB7B-4C38-B441-B85ADB4DAC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D099627-9006-41A1-AEF7-8BB365C068F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D099627-9006-41A1-AEF7-8BB365C068F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D099627-9006-41A1-AEF7-8BB365C068F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D099627-9006-41A1-AEF7-8BB365C068F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D11FD8-776B-474A-84F3-349A09EADDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D11FD8-776B-474A-84F3-349A09EADDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D11FD8-776B-474A-84F3-349A09EADDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D11FD8-776B-474A-84F3-349A09EADDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B548BD7-14F6-4269-8A7D-2551C6C572BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B548BD7-14F6-4269-8A7D-2551C6C572BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B548BD7-14F6-4269-8A7D-2551C6C572BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B548BD7-14F6-4269-8A7D-2551C6C572BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63EC5CB0-33F6-4F20-AF9C-DA3AC2A9CDAF} = {75A47F67-0A30-47A7-8E9E-D7B5A1D60C7A}
+		{24EB42B7-FB7B-4C38-B441-B85ADB4DAC26} = {75A47F67-0A30-47A7-8E9E-D7B5A1D60C7A}
+		{4D099627-9006-41A1-AEF7-8BB365C068F2} = {75A47F67-0A30-47A7-8E9E-D7B5A1D60C7A}
+		{05D11FD8-776B-474A-84F3-349A09EADDB7} = {75A47F67-0A30-47A7-8E9E-D7B5A1D60C7A}
+		{4B548BD7-14F6-4269-8A7D-2551C6C572BE} = {254323AF-D95B-4400-AC5E-B569C59D9F90}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@IdentityMockup.Api_HostAddress = http://localhost:5128
+
+GET {{IdentityMockup.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
